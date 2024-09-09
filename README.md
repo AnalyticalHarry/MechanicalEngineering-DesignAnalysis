@@ -4,10 +4,9 @@ This is an open-research conducted on Strength of Material and Design analysis, 
 
 ### Mechanical_engineering_design_analysis
 
-- 1. Design Analysis
-- 2. Strength of Material
-- 3. Thermal Analysis
-- 4. Finite Element Analysis
+- Design Analysis
+- Strength of Material
+- Finite Element Analysis
 
 ### Cantilever beam uniformly distributed load
 
