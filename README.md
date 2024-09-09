@@ -8,6 +8,8 @@ This is an open-research conducted on Strength of Material and Design analysis, 
 - Strength of Material
 - Finite Element Analysis
 
+# Jupyter Notebook 
+
 ### Cantilever beam uniformly distributed load
 
 https://github.com/AnalyticalHarry/MechanicalEngineeringDesignAnalysis/blob/main/Cantilever%20beam%20uniformly%20distributed%20load.ipynb
@@ -33,3 +35,5 @@ https://github.com/AnalyticalHarry/MechanicalEngineeringDesignAnalysis/blob/main
 https://github.com/AnalyticalHarry/MechanicalEngineeringDesignAnalysis/blob/main/Coupled_vibration_solved_python_part_1.ipynb
 
 
+#### Hemant Thapa
+#### hemantthapa1998@gmail.com
